@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BluetoothApp</string>
+    <string name="enable_bt">Enable BT</string>
+    <string name="visible">Visible</string>
+    <string name="my_bt_name">my BT name</string>
+    <string name="scan">Scan</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="enter_message">enter message</string>
+    <string name="send">send</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported</string>
+    <string name="turned_off">Turned off</string>
+    <string name="showing_devices">Showing Devices</string>
+    <string name="visible_for_min">Visible for 2 min</string>
+    <string name="turned_on">Turned On</string>
+</resources>

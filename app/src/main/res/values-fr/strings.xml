@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_bt">Activer BT</string>
+    <string name="visible">Visible</string>
+    <string name="my_bt_name">nom du BT</string>
+    <string name="scan">Scanner</string>
+    <string name="paired_devices">Appareils détectés</string>
+    <string name="enter_message">entrer le message</string>
+    <string name="send">Envoyer</string>
+    <string name="bluetooth_not_supported">Bluetooth non supporté</string>
+    <string name="turned_off">BT fermé</string>
+    <string name="showing_devices">Affichage des appareils</string>
+    <string name="visible_for_min">Visible pour 2 min</string>
+    <string name="turned_on">Activé</string>
+</resources>
